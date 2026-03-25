@@ -6,8 +6,7 @@
 ---
 
 ### 🔹 About Me
-I hold an M.Sc. in Biostatistics and a B.Sc. in Statistics, with a strong focus on data science and machine learning. My work centers on applying advanced analytics and AI-driven modeling to real-world challenges, particularly in **healthcare** and the **oil & gas industry**.  
-Beyond these domains, I am passionate about contributing to diverse fields where data-driven solutions can create meaningful impact.
+I hold an M.Sc. in Biostatistics and a B.Sc. in Statistics, with a strong focus on data science and machine learning. My interests lie in applying advanced analytics and AI-driven modeling to real-world challenges, particularly in the healthcare and oil & gas sectors. Most of my projects reflect these domains, but I am equally passionate about contributing to other fields where data-driven solutions can create meaningful impact. I aim to combine statistical rigor with modern machine learning techniques to deliver insights, build predictive models, and drive innovation across industries.
 
 ---
 # 💻 Tech Stack:
