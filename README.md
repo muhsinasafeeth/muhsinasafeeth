@@ -1,7 +1,7 @@
 
 # Hi, I'm Muhsina VS 👋
 
-**Data Scientist | Machine Learning Professional | Biostatistics Graduate**
+**Data Scientist | ML Engineeer | Biostatistician**
 
 ---
 
